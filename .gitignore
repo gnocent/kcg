@@ -1,0 +1,8 @@
+/bin/
+/dist/
+/kcg
+/kcg.exe
+kcg-backup-*.csv
+# documents de travail de l'auteur (cadre, plans), hors du dépôt public
+/CADRE.md
+/plans/
