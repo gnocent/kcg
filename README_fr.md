@@ -2,6 +2,10 @@
 
 # kcg
 
+[![CI](https://github.com/gnocent/kcg/actions/workflows/ci.yml/badge.svg)](https://github.com/gnocent/kcg/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/gnocent/kcg?include_prereleases)](https://github.com/gnocent/kcg/releases)
+[![License](https://img.shields.io/github/license/gnocent/kcg)](LICENSE)
+
 Gérer les offsets des consumer groups Kafka sans hésiter sur le bon groupe : comparer les groupes côte à côte, aligner
 l'un sur l'autre, rejouer depuis le début ou depuis un offset, et faire le ménage. Un binaire statique unique (Go,
 franz-go), pour Kafka 2.6 ou plus récent.
